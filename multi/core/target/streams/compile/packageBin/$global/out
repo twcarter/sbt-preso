@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/core_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	me/tcarter/core[0m
+[0m[[0mdebug[0m] [0m	  /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/classes/me/tcarter/core[0m
+[0m[[0mdebug[0m] [0m	me/tcarter[0m
+[0m[[0mdebug[0m] [0m	  /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/classes/me/tcarter[0m
+[0m[[0mdebug[0m] [0m	me[0m
+[0m[[0mdebug[0m] [0m	  /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/classes/me[0m
+[0m[[0mdebug[0m] [0m	me/tcarter/core/Core$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/classes/me/tcarter/core/Core$.class[0m
+[0m[[0mdebug[0m] [0m	me/tcarter/core/Core.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/cartti4/wip/scala/preso/multi/core/target/scala-2.10/classes/me/tcarter/core/Core.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
