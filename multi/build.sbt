@@ -39,12 +39,20 @@ lazy val util = project
 		description := "util project"
 	)
 
-//lazy val demo = inputKey[Unit]("demo input key")
-//demo := {
-//	// get the result of parsing
-//	val args: Seq[String] = spaceDelimited("<arg>").parsed
-//	// Here, we also use the value of the `scalaVersion` setting
-//	println("The current Scala version is " + scalaVersion.value)
-//	println("The arguments to demo were:")
-//	args foreach println
-//}
+lazy val demo = inputKey[Unit]("demo input key")
+
+demo := {
+	val args: Seq[String] = spaceDelimited("<arg>").parsed
+
+	println("The current Scala version is " + scalaVersion.value)
+	println("The arguments to demo were:")
+	args foreach println
+}
+
+
+lazy val runWith = inputKey[Unit]("runWith input key")
+
+runWith := {
+	val args: Seq[String] = spaceDelimited("<arg>").parsed
+	(run in Compile).evaluated
+}

@@ -7,10 +7,10 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150415125439"/>
+		date="20150422162232"/>
 	<dependencies>
 		<module organisation="me.tcarter" name="utilities_2.11">
-			<revision name="1.0" status="integration" pubdate="20150415125436" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+			<revision name="1.0" status="integration" pubdate="20150422162232" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="me.tcarter" name="core_2.11" conf="compile-internal, compile, provided, optional" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
