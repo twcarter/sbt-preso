@@ -1,0 +1,16 @@
+./basic/project/target
+./basic/src/main/scala/target
+./basic/target
+./basic+/project/project/target
+./basic+/project/target
+./basic+/src/main/scala/target
+./basic+/target
+./basic+/target/scala-2.11/classes/target
+./multi/core/src/main/scala/target
+./multi/core/target
+./multi/project/project/target
+./multi/project/target
+./multi/src/main/scala/target
+./multi/target
+./multi/util/src/main/scala/target
+./multi/util/target
