@@ -4,7 +4,7 @@
 		module="core_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150422162232"
+		publication="20150504152835"
 	>
 		<description>
 		core project
@@ -35,9 +35,9 @@
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.4" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.4" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="me.tcarter" name="utilities_2.11" rev="1.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.akka" name="akka" rev="2.1.4" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.slick" name="slick_2.11" rev="2.1.0" conf="compile->default(compile)"/>
 		<dependency org="org.scalaz" name="scalaz-core_2.11" rev="7.0.6" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.1.6" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka" rev="2.1.4" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

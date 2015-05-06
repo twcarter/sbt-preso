@@ -2,7 +2,6 @@ import sbt.Keys._
 import Dependencies._
 import sbt.complete.DefaultParsers._
 
-//import BuildSettings._
 
 name := "multi"
 
@@ -16,6 +15,10 @@ lazy val commonSettings = Seq(
 	libraryDependencies ++= libs ++ testLibs
 )
 
+
+/*
+ *  Projects ...
+ */
 lazy val root = (project in file("."))
 	.dependsOn(core,util)
 	.aggregate(core,util)
@@ -29,7 +32,8 @@ lazy val core = project
 	.settings(commonSettings: _*)
 	.settings(	
 		foo := "baz",	
-		description := "core project"
+		description := "core project",
+        libraryDependencies += akka
 	)
 
 lazy val util = project
@@ -39,20 +43,3 @@ lazy val util = project
 		description := "util project"
 	)
 
-lazy val demo = inputKey[Unit]("demo input key")
-
-demo := {
-	val args: Seq[String] = spaceDelimited("<arg>").parsed
-
-	println("The current Scala version is " + scalaVersion.value)
-	println("The arguments to demo were:")
-	args foreach println
-}
-
-
-lazy val runWith = inputKey[Unit]("runWith input key")
-
-runWith := {
-	val args: Seq[String] = spaceDelimited("<arg>").parsed
-	(run in Compile).evaluated
-}

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic-.iml" filepath="$PROJECT_DIR$/.idea/modules/basic-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic--build.iml" filepath="$PROJECT_DIR$/.idea/modules/basic--build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
     </modules>

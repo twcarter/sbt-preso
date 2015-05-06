@@ -1,7 +1,620 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c59f097d-14e2-4f7f-89b7-46b6644a5094" name="Default" comment="" />
+    <list default="true" id="c59f097d-14e2-4f7f-89b7-46b6644a5094" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core_2.10/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core_2.10/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/core/core_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sbt_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core$sources_javadoc_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/core-core_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sbt_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core$sources_javadoc_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/classes/me/tcarter/core/Core$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/classes/me/tcarter/core/Core.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/core_2.10-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/test-classes/me/tcarter/core/CoreSpec$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/test-classes/me/tcarter/core/CoreSpec$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.10/test-classes/me/tcarter/core/CoreSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index/index-c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index/index-m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index/index-n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index/index-t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/index/index-u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/class.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/class_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/class_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/class_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/constructorsbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/conversionbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/defbg-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/defbg-green.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/diagrams.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/diagrams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filter_box_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filter_box_left2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filter_box_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filterbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filterboxbarbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filterboxbarbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/filterboxbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/fullcommenttopbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/jquery.layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/navigation-li-a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/navigation-li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object_to_class_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object_to_trait_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/object_to_type_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/ownderbg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/ownerbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/ownerbg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/package.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/package_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/packagesbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/permalink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/ref-index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/remove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/scheduler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected-implicits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected-right-implicits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected2-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/selected2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/signaturebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/signaturebg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/tools.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/trait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/trait_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/trait_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/trait_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/type.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/type_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/type_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/type_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/typebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/unselected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/lib/valuemembersbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/me/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/me/tcarter/core/Core$.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/me/tcarter/core/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/me/tcarter/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/api/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/$global/$global/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/copyResources/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/incCompileSetup/$global/inc_compile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/run/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/fullClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/classes/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/core_2.11-1.0-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/scala-2.11/core_2.11-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/$global/$global/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/copyResources/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/doc/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/doc/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/doc/$global/streams/scala/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/doc/$global/streams/scala/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/incCompileSetup/$global/inc_compile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/mainClass/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/streams/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageBin/$global/streams/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageDoc/$global/streams/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageDoc/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/packageDoc/$global/streams/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/run/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/fullClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/test/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/test/isModule=false name=me.tcarter.core.CoreSpec/test/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/testQuick/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/testQuick/isModule=false name=me.tcarter.core.CoreSpec/test/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/project/BuildSettings.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sbt_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities$sources_javadoc_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sbt_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_2.11-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util$sources_javadoc_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/util-util_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/utilities-utilities_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util_2.10/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util_2.10/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/util/util_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/utilities/utilities_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/utilities/utilities_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/classes/me/tcarter/util/Util$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/classes/me/tcarter/util/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/test-classes/me/tcarter/util/UtilSpec$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/test-classes/me/tcarter/util/UtilSpec$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/test-classes/me/tcarter/util/UtilSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.10/util_2.10-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index/index-m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index/index-n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index/index-t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/index/index-u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/class.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/class_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/class_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/class_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/constructorsbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/conversionbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/defbg-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/defbg-green.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/diagrams.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/diagrams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filter_box_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filter_box_left2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filter_box_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filterbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filterboxbarbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filterboxbarbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/filterboxbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/fullcommenttopbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/jquery.layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/navigation-li-a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/navigation-li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object_to_class_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object_to_trait_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/object_to_type_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/ownderbg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/ownerbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/ownerbg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/package.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/package_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/packagesbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/permalink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/ref-index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/remove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/scheduler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected-implicits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected-right-implicits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected2-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/selected2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/signaturebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/signaturebg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/tools.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/trait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/trait_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/trait_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/trait_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/type.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/type_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/type_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/type_to_object_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/typebg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/unselected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/lib/valuemembersbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/me/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/me/tcarter/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/me/tcarter/util/Util$.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/me/tcarter/util/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/api/package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/default-scala_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/$global/$global/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/copyResources/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/incCompileSetup/$global/inc_compile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/run/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/fullClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/classes/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/utilities_2.11-1.0-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/scala-2.11/utilities_2.11-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/$global/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/ivySbt/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/$global/$global/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/compile/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/compile/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/copyResources/$global/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/copyResources/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/doc/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/doc/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/doc/$global/streams/scala/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/doc/$global/streams/scala/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/exportedProducts/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/incCompileSetup/$global/inc_compile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/mainClass/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/managedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/streams/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageBin/$global/streams/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageDoc/$global/streams/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageDoc/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/packageDoc/$global/streams/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/test/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/test/isModule=false name=me.tcarter.util.UtilSpec/test/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/testQuick/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/testQuick/isModule=false name=me.tcarter.util.UtilSpec/test/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sbt.key/Data/st11-1502.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sbt.key/Data/st18-1932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sbt.key/Data/st2-1785.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sbt.key/Index.zip" afterPath="$PROJECT_DIR$/../sbt.key/Index.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/.history" afterPath="$PROJECT_DIR$/../multi/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/project/BuildSettings.scala" afterPath="$PROJECT_DIR$/../multi/project/BuildSettings.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/project/Dependencies.scala" afterPath="$PROJECT_DIR$/../multi/project/Dependencies.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sbt.key/Metadata/Properties.plist" afterPath="$PROJECT_DIR$/../sbt.key/Metadata/Properties.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../basic/project/build.properties" afterPath="$PROJECT_DIR$/../basic/project/build.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../basic/build.sbt" afterPath="$PROJECT_DIR$/../basic/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/build.sbt" afterPath="$PROJECT_DIR$/../multi/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/../multi/core/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/../multi/core/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/../multi/util/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/../multi/util/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/ivy-report.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/ivy-report.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-compile.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-docs.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-optional.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-pom.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-provided.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-sources.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-test.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/reports/me.tcarter-core_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-compile.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-docs.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-optional.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-pom.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-provided.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-sources.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-test.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/reports/me.tcarter-utilities_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/test-reports/me.tcarter.core.CoreSpec.xml" afterPath="$PROJECT_DIR$/../multi/core/target/test-reports/me.tcarter.core.CoreSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/test-reports/me.tcarter.util.UtilSpec.xml" afterPath="$PROJECT_DIR$/../multi/util/target/test-reports/me.tcarter.util.UtilSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/$global/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/compile/compile/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/compile/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/test/compile/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/test/definedTests/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/testOnly/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/core/target/streams/test/testOnly/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/$global/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/compile/compile/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/compile/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/test/compile/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/test/definedTests/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/testOnly/$global/streams/out" afterPath="$PROJECT_DIR$/../multi/util/target/streams/test/testOnly/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/project/plugins.sbt" afterPath="$PROJECT_DIR$/../multi/project/plugins.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../multi/core/target/resolution-cache/me.tcarter/core_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../multi/util/target/resolution-cache/me.tcarter/utilities_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/core/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/../multi/core/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multi/util/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/../multi/util/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="basic+.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +644,18 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3472988">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4269103">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/lib/scala-library.jar!/scala/StringContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -41,7 +664,7 @@
       <file leaf-file-name="package.class" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/sbt-0.13.7.jar!/sbt/package.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.2">
+            <state vertical-scroll-proportion="0.0">
               <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
               <folding />
             </state>
@@ -51,7 +674,7 @@
       <file leaf-file-name="Keys.class" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/main-0.13.7.jar!/sbt/Keys.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.6346154">
+            <state vertical-scroll-proportion="0.0">
               <caret line="147" column="82" selection-start-line="147" selection-start-column="82" selection-end-line="147" selection-end-column="82" />
               <folding />
             </state>
@@ -80,6 +703,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -99,14 +725,21 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1323" />
-    <option name="height" value="1051" />
+    <option name="width" value="1916" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -133,8 +766,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,112 +783,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tcarter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic+" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,7 +805,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../sbt/build.sbt" />
   </component>
   <component name="RunManager" selected="Application.Hello">
     <configuration default="false" name="HelloSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
@@ -598,6 +1125,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="scalaCoverage" />
@@ -638,11 +1171,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root" />
+                <option name="name" value="basic-" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build" />
+                <option name="name" value="basic--build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -665,39 +1198,40 @@
       <workItem from="1422648547996" duration="2000" />
       <workItem from="1422650016230" duration="693000" />
       <workItem from="1429641964582" duration="817000" />
+      <workItem from="1430854703685" duration="1927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1558000" />
+    <option name="totallyTimeSpent" value="3485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1323" height="1051" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="22" width="1916" height="1058" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21545668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18579236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -727,6 +1261,46 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/sbt-0.13.7.jar!/sbt/package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/main-0.13.7.jar!/sbt/Keys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="147" column="82" selection-start-line="147" selection-start-column="82" selection-end-line="147" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/me/tcarter/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/HelloSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -783,17 +1357,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/main-settings-0.13.7.jar!/sbt/Scoped.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34240362">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/sbt-0.13.7.jar!/sbt/package.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.2">
+        <state vertical-scroll-proportion="0.0">
           <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
           <folding />
         </state>
@@ -801,16 +1367,40 @@
     </entry>
     <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/main-0.13.7.jar!/sbt/Keys.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6346154">
+        <state vertical-scroll-proportion="0.0">
           <caret line="147" column="82" selection-start-line="147" selection-start-column="82" selection-end-line="147" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/lib/scala-library.jar!/scala/StringContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.7/main-settings-0.13.7.jar!/sbt/Scoped.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34662044">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3472988">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4269103">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
