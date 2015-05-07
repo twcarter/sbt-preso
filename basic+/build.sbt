@@ -23,10 +23,16 @@ lazy val foo     = settingKey[String]("foo key")
 lazy val hello   = taskKey[Unit]("hello task key")
 lazy val goodbye = taskKey[Unit]("goodbye task key")
 
+lazy val ans = taskKey[Int]("return answer to the ultimate question of life")
+
 // define
 foo     := "bar"
 hello   := println(s"hello, atlanta, let's go to a ${foo.value}")
 goodbye := println(s"goodbye, atlanta, time to leave the ${foo.value}")
+
+// scoped task
+ans in Compile := 42
+ans in Test    := 24
 
 
 // add task dependency
